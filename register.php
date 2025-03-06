@@ -14,7 +14,7 @@ if ($user->UserLoggedIn()) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>CLOSEDAI &mdash; Sign Up</title>
+    <title>TOXMAS &mdash; Sign Up</title>
 
     <link rel="icon" href="assets/img/logo.png" type="image/x-icon">
 
@@ -53,7 +53,7 @@ if ($user->UserLoggedIn()) {
                             style="display: flex; place-items: center; left: -10px; position: relative;margin-bottom: 10px;">
                             <h2 onclick="window.location.href=`/`"
                                 style="font-family: 'Orbitron'; font-weight: bold; cursor: pointer; font-size: 40px;margin-left: -5px; color: #fa5; text-shadow: 0 0 5px #0006">
-                                CLOSEDAI</h2>
+                                TOXMAS</h2>
                         </span>
 
                         <h2 class="text-4xl font-bold text-white">Welcome !</h2>
